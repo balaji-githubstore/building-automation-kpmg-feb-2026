@@ -1,0 +1,80 @@
+Incident Report Summary
+=======================
+
+Total Credential Manager Read Events: 6
+=======================
+
+
+Details of Credential Manager Read Events:
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
+EventID: 5379, Message: Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-450085946-678802844-1662230980-1001
+	Account Name:		balaj
+	Account Domain:		LAPTOP-I7D2KG2L
+	Logon ID:		0x10d791
+	Read Operation:		%%8099
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager., 
+----------------------------
+
